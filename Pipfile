@@ -27,7 +27,7 @@ databases = {extras = ["mysql", "postgresql", "sqlite"], version = "==0.3.2"}
 alembic = "~=1.4.2"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9.1"
 
 [scripts]
 bot = "python bot.py"
